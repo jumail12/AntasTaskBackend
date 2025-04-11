@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ONG3IZ8srkU=",
+  "success": true,
+  "projectFilePath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Infrastracture\\PatientManagementSystem.Infrastracture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jumai\\.nuget\\packages\\mediatr\\12.5.0\\mediatr.12.5.0.nupkg.sha512",
+    "C:\\Users\\jumai\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\jumai\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.4\\microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,299 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem\\PatientManagementSystem.csproj": {}
+  },
+  "projects": {
+    "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Application\\PatientManagementSystem.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Application\\PatientManagementSystem.Application.csproj",
+        "projectName": "PatientManagementSystem.Application",
+        "projectPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Application\\PatientManagementSystem.Application.csproj",
+        "packagesPath": "C:\\Users\\jumai\\.nuget\\packages\\",
+        "outputPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jumai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Domain\\PatientManagementSystem.Domain.csproj": {
+                "projectPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Domain\\PatientManagementSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Domain\\PatientManagementSystem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Domain\\PatientManagementSystem.Domain.csproj",
+        "projectName": "PatientManagementSystem.Domain",
+        "projectPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Domain\\PatientManagementSystem.Domain.csproj",
+        "packagesPath": "C:\\Users\\jumai\\.nuget\\packages\\",
+        "outputPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jumai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Infrastracture\\PatientManagementSystem.Infrastracture.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Infrastracture\\PatientManagementSystem.Infrastracture.csproj",
+        "projectName": "PatientManagementSystem.Infrastracture",
+        "projectPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Infrastracture\\PatientManagementSystem.Infrastracture.csproj",
+        "packagesPath": "C:\\Users\\jumai\\.nuget\\packages\\",
+        "outputPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Infrastracture\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jumai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Application\\PatientManagementSystem.Application.csproj": {
+                "projectPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Application\\PatientManagementSystem.Application.csproj"
+              },
+              "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Domain\\PatientManagementSystem.Domain.csproj": {
+                "projectPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Domain\\PatientManagementSystem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem\\PatientManagementSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem\\PatientManagementSystem.csproj",
+        "projectName": "PatientManagementSystem",
+        "projectPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem\\PatientManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\jumai\\.nuget\\packages\\",
+        "outputPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jumai\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Application\\PatientManagementSystem.Application.csproj": {
+                "projectPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Application\\PatientManagementSystem.Application.csproj"
+              },
+              "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Infrastracture\\PatientManagementSystem.Infrastracture.csproj": {
+                "projectPath": "D:\\MACHINE  TASKS\\Antas\\PatientManagementSystem\\PatientManagementSystem.Infrastracture\\PatientManagementSystem.Infrastracture.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.5.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

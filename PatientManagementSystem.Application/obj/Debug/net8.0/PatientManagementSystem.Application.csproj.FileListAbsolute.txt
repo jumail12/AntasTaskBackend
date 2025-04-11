@@ -1,0 +1,15 @@
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\obj\Debug\net8.0\PatientManagementSystem.Application.csproj.AssemblyReference.cache
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\obj\Debug\net8.0\PatientManagementSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\obj\Debug\net8.0\PatientManagementSystem.Application.AssemblyInfoInputs.cache
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\obj\Debug\net8.0\PatientManagementSystem.Application.AssemblyInfo.cs
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\obj\Debug\net8.0\PatientManagementSystem.Application.csproj.CoreCompileInputs.cache
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\bin\Debug\net8.0\PatientManagementSystem.Application.deps.json
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\bin\Debug\net8.0\PatientManagementSystem.Application.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\bin\Debug\net8.0\PatientManagementSystem.Application.pdb
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\bin\Debug\net8.0\PatientManagementSystem.Domain.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\bin\Debug\net8.0\PatientManagementSystem.Domain.pdb
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\obj\Debug\net8.0\PatientM.FBB75487.Up2Date
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\obj\Debug\net8.0\PatientManagementSystem.Application.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\obj\Debug\net8.0\refint\PatientManagementSystem.Application.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\obj\Debug\net8.0\PatientManagementSystem.Application.pdb
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Application\obj\Debug\net8.0\ref\PatientManagementSystem.Application.dll

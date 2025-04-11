@@ -1,0 +1,17 @@
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\obj\Debug\net8.0\PatientManagementSystem.Infrastracture.csproj.AssemblyReference.cache
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\obj\Debug\net8.0\PatientManagementSystem.Infrastracture.GeneratedMSBuildEditorConfig.editorconfig
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\obj\Debug\net8.0\PatientManagementSystem.Infrastracture.AssemblyInfoInputs.cache
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\obj\Debug\net8.0\PatientManagementSystem.Infrastracture.AssemblyInfo.cs
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\obj\Debug\net8.0\PatientManagementSystem.Infrastracture.csproj.CoreCompileInputs.cache
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\bin\Debug\net8.0\PatientManagementSystem.Infrastracture.deps.json
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\bin\Debug\net8.0\PatientManagementSystem.Infrastracture.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\bin\Debug\net8.0\PatientManagementSystem.Infrastracture.pdb
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\bin\Debug\net8.0\PatientManagementSystem.Application.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\bin\Debug\net8.0\PatientManagementSystem.Domain.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\bin\Debug\net8.0\PatientManagementSystem.Application.pdb
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\bin\Debug\net8.0\PatientManagementSystem.Domain.pdb
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\obj\Debug\net8.0\PatientM.ACC03A5F.Up2Date
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\obj\Debug\net8.0\PatientManagementSystem.Infrastracture.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\obj\Debug\net8.0\refint\PatientManagementSystem.Infrastracture.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\obj\Debug\net8.0\PatientManagementSystem.Infrastracture.pdb
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Infrastracture\obj\Debug\net8.0\ref\PatientManagementSystem.Infrastracture.dll

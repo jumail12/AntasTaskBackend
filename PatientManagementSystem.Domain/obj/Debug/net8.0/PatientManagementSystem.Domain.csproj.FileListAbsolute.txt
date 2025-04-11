@@ -1,0 +1,11 @@
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\obj\Debug\net8.0\PatientManagementSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\obj\Debug\net8.0\PatientManagementSystem.Domain.AssemblyInfoInputs.cache
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\obj\Debug\net8.0\PatientManagementSystem.Domain.AssemblyInfo.cs
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\obj\Debug\net8.0\PatientManagementSystem.Domain.csproj.CoreCompileInputs.cache
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\bin\Debug\net8.0\PatientManagementSystem.Domain.deps.json
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\bin\Debug\net8.0\PatientManagementSystem.Domain.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\bin\Debug\net8.0\PatientManagementSystem.Domain.pdb
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\obj\Debug\net8.0\PatientManagementSystem.Domain.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\obj\Debug\net8.0\refint\PatientManagementSystem.Domain.dll
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\obj\Debug\net8.0\PatientManagementSystem.Domain.pdb
+D:\MACHINE  TASKS\Antas\PatientManagementSystem\PatientManagementSystem.Domain\obj\Debug\net8.0\ref\PatientManagementSystem.Domain.dll
